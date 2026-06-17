@@ -42,3 +42,5 @@ php artisan serve
 - View payslip with automatic payroll calculation
 - Search employees by name or position
 - Form validation for all inputs
+
+## if youre using xampp please save the folder inside "C:\xampp\htdocs"
